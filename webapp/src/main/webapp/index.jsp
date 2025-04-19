@@ -26,6 +26,10 @@
     <input type="text" placeholder="Enter aadhaar" name="aadhaar" id="aadhaar" required>
     <br>
 
+    <label for="mother"><b>mother</b></label>
+    <input type="text" placeholder="Enter mother" name="mother" id="mother" required>
+    <br>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
