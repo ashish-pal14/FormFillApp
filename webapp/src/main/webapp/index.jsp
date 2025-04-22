@@ -35,9 +35,7 @@
     <input type="text" placeholder="Enter father" name="father" id="father" required>
     <br>
 
-    <label for="sister"><b>sister</b></label>
-    <input type="text" placeholder="Enter sister" name="sister" id="sister" required>
-    <br>
+    
 
     
     <label for="spouse"><b>spouse</b></label>
