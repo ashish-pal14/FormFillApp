@@ -39,10 +39,7 @@
     <input type="text" placeholder="Enter sister" name="sister" id="sister" required>
     <br>
 
-    <label for="Brother"><b>Brother</b></label>
-    <input type="text" placeholder="Enter Brother" name="Brother" id="Brother" required>
-    <br>
-
+    
     <label for="spouse"><b>spouse</b></label>
     <input type="text" placeholder="Enter spouse" name="spouse" id="spouse" required>
     <br>
